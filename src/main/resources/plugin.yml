@@ -1,0 +1,7 @@
+name: ShadowQuests
+version: 1.0
+authors: [DreTaX]
+main: me.dretax.quester.Quester
+commands:
+  qu:
+    usage: Bad Arg!
