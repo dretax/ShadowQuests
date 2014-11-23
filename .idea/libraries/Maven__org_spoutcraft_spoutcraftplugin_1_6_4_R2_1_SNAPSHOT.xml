@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.spoutcraft:spoutcraftplugin:1.6.4-R2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spoutcraft/spoutcraftplugin/1.6.4-R2.1-SNAPSHOT/spoutcraftplugin-1.6.4-R2.1-20140121.014544-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spoutcraft/spoutcraftplugin/1.6.4-R2.1-SNAPSHOT/spoutcraftplugin-1.6.4-R2.1-20140121.014544-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spoutcraft/spoutcraftplugin/1.6.4-R2.1-SNAPSHOT/spoutcraftplugin-1.6.4-R2.1-20140121.014544-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

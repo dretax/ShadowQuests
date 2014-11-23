@@ -80,7 +80,7 @@ public class QuestInfo extends GenericPopup {
 			sy += 17;
 		}
 		
-		GenericTexture gt = new GenericTexture("http://91.83.231.155/revweb/images/megrendeles/conceptquest2.png");
+		GenericTexture gt = new GenericTexture("https://www.dropbox.com/s/8x6ud0tnc2xpydu/conceptquestfixed.png?dl=1");
 		gt.setX(tsx-15).setY(tsy-15);
 		gt.setWidth(sx - tsx+15).setHeight(sy - tsy+15);
 		
